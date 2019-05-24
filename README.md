@@ -6,3 +6,6 @@ The dataset for this analysis can be found here:<br>
 https://www1.nyc.gov/assets/nypd/downloads/excel/analysis_and_planning/stop-question-frisk/sqf-2018.xlsx
 
 The file is available only in Excel format, so be sure to first convert it to a CSV file before reading it into the 01_NYPD_EDA notebook.
+
+<b>How to Read the Analysis</b><br>
+Start with the 01_NYPD_EDA notebook and from there proceed in numerical order through the other notebooks.
